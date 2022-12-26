@@ -1,0 +1,501 @@
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\ref\WebApplication6.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.xml
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.StaticWebAssets.xml
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+D:\fahad\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.StaticWebAssets.xml
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+D:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\bijli bachao api\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+D:\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OOXML.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.dll
+D:\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+E:\bijli bachao api\new\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OOXML.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+E:\bijli bachao api\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OOXML.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Pack.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApplication6.props
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication6.props
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication6.props
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+D:\Bijli Bachao\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.StaticWebAssets.xml
+C:\Users\Fahad\Downloads\WebApplication6\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.Development.json
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\appsettings.json
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.exe
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.deps.json
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.json
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\WebApplication6.pdb
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\MySql.Data.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\ZstdNet.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OOXML.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\NPOI.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.AssemblyInfo.cs
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Pack.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.build.WebApplication6.props
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication6.props
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication6.props
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.csproj.CopyComplete
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\refint\WebApplication6.dll
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
+D:\Bijli Bachao\Bijli Bachao Api Code 24-dec-22\WebApplication6\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
