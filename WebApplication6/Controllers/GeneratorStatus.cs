@@ -2,6 +2,7 @@
 using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
+using WebApplication6.Models;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -32,9 +33,11 @@ namespace WebApplication6.Controllers
 
                 return Ok(selectpart2(value));
         }
+     
         String status="";
-        private string selectpart2(msnclass value)
+        private GeneratorStatusResponse selectpart2(msnclass value)
         {
+            GeneratorStatusResponse obj = new GeneratorStatusResponse();
             String msn = value.id;
             TimeZoneInfo timeZoneInfo;
             timeZoneInfo = TimeZoneInfo.FindSystemTimeZoneById("Pakistan Standard Time");
@@ -94,7 +97,8 @@ namespace WebApplication6.Controllers
                     }
                 }
             }
-            return status;
+            obj.Status = status;
+            return obj;
           
         }
 
