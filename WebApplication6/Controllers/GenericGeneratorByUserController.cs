@@ -67,8 +67,9 @@ namespace WebApplication6.Controllers
         }
         List<GenericGeneratorDO> genericlist = new List<GenericGeneratorDO>();
         List<TimeMinutes> classobj;
-        private void selectpart(GenericRequest cls,List<String> msnlist)
+        private void selectpart(GenericRequest cls,List<GenericDO> msnlist)
         {
+            string description = "";
             string msn = cls.Username;
             List<List<DateTime>> listmaster;
             TimeZoneInfo timeZoneInfo;
@@ -87,8 +88,8 @@ namespace WebApplication6.Controllers
                 con.Open();
                 for (int j = 0; j < msnlist.Count; j++)
                 {
-
-                     msn = msnlist[j];
+                    description = msnlist[j].Description;
+                     msn = msnlist[j].Msn;
                     bool check = true;
                     DateTime date = DateTime.Now;
                     List<DateTime> datetime = new List<DateTime>();
@@ -143,7 +144,7 @@ namespace WebApplication6.Controllers
 
                     }
 
-                    genericlist.Add(new GenericGeneratorDO() { Msn = msn, List = classobj  });
+                    genericlist.Add(new GenericGeneratorDO() { Msn = msn, Description=description,List = classobj  });
 
                 }// loop ends
 
@@ -203,14 +204,14 @@ namespace WebApplication6.Controllers
         }
 
 
-        private List<String> loginresponse(String str)
+        private List<GenericDO> loginresponse(String str)
         {
-            List<String> result = new List<String>();
+            List<GenericDO> result = new List<GenericDO>();
             var connectionString = "server=164.92.148.47;database=meter_data;uid=node_user;pwd=RNK@ehsan123;";
             using (MySqlConnection con = new MySqlConnection(connectionString))
             {
                 con.Open();
-                string query = "Select msn,full_name,last_login,num_logins,Description from billing_data.users_app where user_name='" + str + "'";
+                string query = "Select msn,Description from billing_data.users_app where user_name='" + str + "'";
                 using (MySqlCommand cmd = new MySqlCommand(query, con))
                 {
                     MySqlDataReader reader = cmd.ExecuteReader();
@@ -219,11 +220,19 @@ namespace WebApplication6.Controllers
                     {
 
                         String s = reader.GetString(0);
+                        String s1 = reader.GetString(1);
                         var list1 = s.Split(',');
+                        var list2 = s1.Split(',');
+                      
                         for (int i = 0; i < list1.Length; i++)
                         {
-                            result.Add(list1[i].Split('-')[0]);
+                            GenericDO obj = new GenericDO();
+                            obj.Msn = list1[i].Split('-')[0];
+                            obj.Description = list2[i];
+                            result.Add(obj);
                         }
+                      
+                     
                         reader.Close();
 
                     }
