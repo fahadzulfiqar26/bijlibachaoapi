@@ -48,7 +48,7 @@ namespace WebApplication6.Controllers
             }
             catch (Exception d)
             {
-                return BadRequest();
+                return BadRequest(d.Message);
             }
         }
 
