@@ -9,7 +9,7 @@ using WebApplication6.Models;
 
 namespace WebApplication6.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class GenericGeneratorStatusByUserController : ControllerBase
     {
@@ -28,7 +28,7 @@ namespace WebApplication6.Controllers
         }
    // POST api/<GenericGeneratorStatusByUserController>
         [HttpPost]
-        public IActionResult Post([FromBody] GenericRequest value)
+        public IActionResult Post([FromBody] GenericRequestDO value)
         {
             try
             {
@@ -50,7 +50,7 @@ namespace WebApplication6.Controllers
 
         }
 
-        private List<GenericStatusDO> selectpart(GenericRequest cls, List<GenericDO> msnlist)
+        private List<GenericStatusDO> selectpart(GenericRequestDO cls, List<GenericDO> msnlist)
         {
             List<GenericStatusDO> genericlist= new List<GenericStatusDO>();
 
@@ -98,7 +98,11 @@ namespace WebApplication6.Controllers
                             var s = enddate - date;
                             if (s.TotalMinutes > 15)
                             {
-                                status = "Disconnected";
+                                status = "Load Shedding";
+                                if(s.TotalMinutes > 360)
+                                {
+                                    status = "Connectivity Issue";
+                                }
                             }
                             else
                             {
