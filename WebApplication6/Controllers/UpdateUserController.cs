@@ -15,18 +15,7 @@ namespace WebApplication6.Controllers
     public class UpdateUserController : ControllerBase
     {
         // GET: api/<UpdateUserController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<UpdateUserController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+      
 
         // POST api/<UpdateUserController>
         [HttpPost]
@@ -80,16 +69,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<UpdateUserController>/5
-        [HttpPut("{id}")]
-        public void Put(string username, [FromBody] CreateUserDO value)
-        {
-            var ddd = 0;
-        }
-
-        // DELETE api/<UpdateUserController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

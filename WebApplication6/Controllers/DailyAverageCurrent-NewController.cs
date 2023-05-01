@@ -17,18 +17,7 @@ namespace WebApplication6.Controllers
     public class DailyAverageCurrent_NewController : ControllerBase
     {
         // GET: api/<DailyAverageCurrent_NewController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<DailyAverageCurrent_NewController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+      
         List<AverageCalculation> listcal, listcal2, listcal3;
         // POST api/<DailyAverageCurrent_NewController>
         [HttpPost]
@@ -63,21 +52,29 @@ namespace WebApplication6.Controllers
                         {
                        //     while (reader.Read())
                             {
+                                try { 
                                 AverageCalculation obj = new AverageCalculation();
                                 obj.value = ((Double)reader[3]);
                                 obj.Date = ((DateTime)reader[1]);
-                                listcal.Add(obj);
+                                listcal.Add(obj);           
+                                }
+                                catch (Exception d) { }
 
-
+                                try { 
                                 AverageCalculation obj2 = new AverageCalculation();
                                 obj2.value = ((Double)reader[8]);
                                 obj2.Date = ((DateTime)reader[1]);
                                 listcal2.Add(obj2);
+                                }
+                                catch (Exception d) { }
 
+                                try { 
                                 AverageCalculation obj3 = new AverageCalculation();
                                 obj3.value = ((Double)reader[12]);
                                 obj3.Date = ((DateTime)reader[1]);
                                 listcal3.Add(obj3);
+                                }
+                                catch (Exception d) { }
                             }
                         }
                     }
@@ -182,15 +179,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<DailyAverageCurrent_NewController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<DailyAverageCurrent_NewController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

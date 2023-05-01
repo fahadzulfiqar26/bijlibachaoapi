@@ -17,19 +17,7 @@ namespace WebApplication6.Controllers
         private string connectionString;
 
         // GET: api/<TodayController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-
-            return new string[] { "ok", "value2" };
-        }
-
-        // GET api/<TodayController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+      
         List<TodayLiveGenerator> MegaList;
         // POST api/<TodayController>
         [HttpPost]
@@ -149,16 +137,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<TodayController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-
-        // DELETE api/<TodayController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

@@ -43,38 +43,109 @@ namespace WebApplication6.Controllers
                     while (reader.Read())
                     {
                         phase123returnDO obj = new phase123returnDO();
-                        obj.msn = reader.GetString(0);
-                        obj.DateTime = reader.GetDateTime(1);
-                        obj.voltage_L1 = reader.GetString(2);
-                        obj.current_l1 = reader.GetString(3);
-                        obj.kW_l1 = reader.GetString(4);
-                        obj.PF_L1 = reader.GetString(5);
-                        obj.Freq_L1 = reader.GetString(6);
-                        obj.voltage_L2 = reader.GetString(7);
-                        obj.current_l2 = reader.GetString(8);
-                        obj.kW_l2 = reader.GetString(9);
-                        obj.PF_L2 = reader.GetString(10);
-                        obj.voltage_L3 = reader.GetString(11);
-                        obj.current_l3 = reader.GetString(12);
-                        obj.kW_l3 = reader.GetString(13);
-                        obj.PF_L3 = reader.GetString(14);
+                        try
+                        {
+                            obj.msn = reader.GetString(0);
+                            obj.DateTime = reader.GetDateTime(1);
+                            obj.voltage_L1 = reader.GetString(2);
+                            obj.current_l1 = reader.GetString(3);
+                            obj.kW_l1 = reader.GetString(4);
+                            obj.PF_L1 = reader.GetString(5);
+                            obj.Freq_L1 = reader.GetString(6);
+                            obj.voltage_L2 = reader.GetString(7);
+                            obj.current_l2 = reader.GetString(8);
+                            obj.kW_l2 = reader.GetString(9);
+                            obj.PF_L2 = reader.GetString(10);
+                            obj.voltage_L3 = reader.GetString(11);
+                            obj.current_l3 = reader.GetString(12);
+                            obj.kW_l3 = reader.GetString(13);
+                            obj.PF_L3 = reader.GetString(14);
+                        }
+                        catch(Exception d) { }
+                        reader.Close();
                         //  obj.Fullname = reader.GetString(1);
+                        Log_Load_Records(value.msn,con);
                         return Ok(obj);
                     }
                 }
             }
             return NotFound();
         }
-                    // PUT api/<Phase123Controller>/5
-                    [HttpPut("{id}")]
-                    public void Put(int id, [FromBody] string value)
+        string type = "Phase123";
+        private void Log_Load_Records(String msn, MySqlConnection con)
+        {
+            int count = 0;
+            var month = DateTime.Now.Month;
+            string query = "Select count from  Load_Records where month='" + month + "' and msn='" + msn + "' and api_name='"+type+"'";
+
+
+            using (MySqlCommand cmd = new MySqlCommand(query, con))
+            {
+                MySqlDataReader reader = cmd.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    try
                     {
+                        count = reader.GetInt16(0);
+                      
+                    }
+                    catch(Exception d) { }  
+                    }
+                reader.Close();
+            }
+            count++;
+            add_record(type, month, count, msn, con);
                     }
 
-                    // DELETE api/<Phase123Controller>/5
-        [HttpDelete("{id}")]
-                    public void Delete(int id)
+        private void add_record(string v, int month, int count, string msn, MySqlConnection con)
+        {
+            if (count == 1)
+            {
+                String query = "insert into Load_Records (msn,month,api_name,count) values ('" + msn + "','" + month + "','" + v + "','" + count + "')";
+                using (MySqlCommand command = new MySqlCommand(query, con))
+                {
+
+                    int result = command.ExecuteNonQuery();
+                    if (result > 0)
                     {
+
+                    }
+                    else
+                    {
+
                     }
                 }
+            }
+            else
+            {
+               
+
+                    string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and month=@month";
+
+                    MySqlCommand cmd = new MySqlCommand();
+                    cmd.CommandText = query;
+                    cmd.Parameters.AddWithValue("@count", count);
+                    cmd.Parameters.AddWithValue("@msn", msn);
+                    cmd.Parameters.AddWithValue("@apiname", type);
+                    cmd.Parameters.AddWithValue("@month", month);
+                 
+                    cmd.Connection = con;
+                    int dr = cmd.ExecuteNonQuery();
+                    if (dr > 0)
+                    {
+                      
+                    }
+                    else
+                    {
+                       
+                    }
+                
+            }
+        }
+
+
+        // PUT api/<Phase123Controller>/5
+
+    }
 }

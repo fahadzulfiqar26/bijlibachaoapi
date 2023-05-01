@@ -15,20 +15,7 @@ namespace WebApplication6.Controllers
     public class LastMonthController : ControllerBase
     {
         // GET: api/<MonthlyController>
-        [HttpGet]
-        public string Get()
-        {
-            // selectpart();
-            return "value";
-        }
-
-        // GET api/<MonthlyController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-
-            return "value";
-        }
+      
 
         // POST api/<MonthlyController>
         [HttpPost]
@@ -53,17 +40,8 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<MonthlyController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<MonthlyController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
-
+   
+        
         List<TimeMinutes> classobj = new List<TimeMinutes>();
         private void selectpart(string msn)
         {

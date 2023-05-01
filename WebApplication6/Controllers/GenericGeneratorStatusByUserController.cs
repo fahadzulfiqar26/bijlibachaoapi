@@ -14,18 +14,7 @@ namespace WebApplication6.Controllers
     public class GenericGeneratorStatusByUserController : ControllerBase
     {
         // GET: api/<GenericGeneratorStatusByUserController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<GenericGeneratorStatusByUserController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+     
    // POST api/<GenericGeneratorStatusByUserController>
         [HttpPost]
         public IActionResult Post([FromBody] GenericRequestDO value)
@@ -184,15 +173,6 @@ namespace WebApplication6.Controllers
 
 
         // PUT api/<GenericGeneratorStatusByUserController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<GenericGeneratorStatusByUserController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

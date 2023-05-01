@@ -14,18 +14,7 @@ namespace WebApplication6.Controllers
     public class DailyAverageCurrentController : ControllerBase
     {
         // GET: api/<DailyAverageCurrentController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<DailyAverageCurrentController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+    
 
         // POST api/<DailyAverageCurrentController>
         List<AverageCalculation> listcal;
@@ -174,15 +163,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<DailyAverageCurrentController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<DailyAverageCurrentController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+      
     }
 }

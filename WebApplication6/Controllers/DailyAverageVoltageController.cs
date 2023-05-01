@@ -14,18 +14,7 @@ namespace WebApplication6.Controllers
     public class DailyAverageVoltageController : ControllerBase
     {
         // GET: api/<DailyAverageVoltageController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<DailyAverageVoltageController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+       
         List<AverageCalculation> listcal;
         // POST api/<DailyAverageVoltageController>
         [HttpPost]
@@ -166,15 +155,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<DailyAverageVoltageController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<DailyAverageVoltageController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

@@ -44,3 +44,112 @@ C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Release\net5.0\B
 C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Fahad\source\repos\WebApplication6\WebApplication6\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\appsettings.Development.json
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\appsettings.json
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.StaticWebAssets.xml
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.exe
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.deps.json
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.runtimeconfig.json
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.pdb
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Google.Protobuf.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\K4os.Compression.LZ4.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\K4os.Hash.xxHash.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\MySql.Data.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Ubiety.Dns.Core.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\ZstdNet.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.OOXML.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.OpenXml4Net.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.OpenXmlFormats.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\BouncyCastle.Crypto.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\ICSharpCode.SharpZipLib.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.AssemblyInfo.cs
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.csproj.CopyComplete
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\refint\WebApplication6.dll
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.pdb
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.genruntimeconfig.cache
+D:\bijlibachaoapi 5\New folder\bijlibachaoapi 6.0\bijlibachaoapi 7.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\ref\WebApplication6.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\appsettings.Development.json
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\appsettings.json
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.StaticWebAssets.xml
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.exe
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.deps.json
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.runtimeconfig.json
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.runtimeconfig.dev.json
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\WebApplication6.pdb
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Google.Protobuf.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\K4os.Compression.LZ4.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\K4os.Hash.xxHash.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\MySql.Data.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Ubiety.Dns.Core.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\ZstdNet.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.OOXML.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.OpenXml4Net.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.OpenXmlFormats.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\NPOI.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\BouncyCastle.Crypto.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\ICSharpCode.SharpZipLib.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.csproj.AssemblyReference.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.AssemblyInfoInputs.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.AssemblyInfo.cs
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.csproj.CoreCompileInputs.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cs
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.MvcApplicationPartsAssemblyInfo.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\scopedcss\bundle\WebApplication6.styles.css
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Manifest.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\WebApplication6.StaticWebAssets.Pack.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\msbuild.build.WebApplication6.props
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication6.props
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.WebApplication6.props
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.RazorTargetAssemblyInfo.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.csproj.CopyComplete
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\refint\WebApplication6.dll
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.pdb
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\WebApplication6.genruntimeconfig.cache
+D:\Bijli Bachao\bijlibachaoapi 8.0\bijlibachaoapi\WebApplication6\obj\Release\net5.0\ref\WebApplication6.dll

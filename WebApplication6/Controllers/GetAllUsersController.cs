@@ -82,12 +82,7 @@ namespace WebApplication6.Controllers
         }
 
         // GET api/<GetAllUsersController>/5
-        [HttpGet("{id}")]
-        public void Get([FromBody]  String user)
-        {
-
-           
-        }
+      
 
         // POST api/<GetAllUsersController>
         [HttpPost]
@@ -98,15 +93,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<GetAllUsersController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<GetAllUsersController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

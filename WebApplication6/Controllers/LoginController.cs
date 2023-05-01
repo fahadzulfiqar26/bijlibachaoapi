@@ -18,13 +18,6 @@ namespace WebApplication6.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/<LoginController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
         // POST api/<LoginController>
         [HttpPost]
         public IActionResult Post([FromBody] loginrequestDO value)
@@ -57,15 +50,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<LoginController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<LoginController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

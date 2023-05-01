@@ -13,19 +13,7 @@ namespace WebApplication6.Controllers
     public class GeneratorStatus : ControllerBase
     {
         // GET: api/<GeneratorStatus>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<GeneratorStatus>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
+      
         // POST api/<GeneratorStatus>
         [HttpPost]
         public IActionResult Post([FromBody] msnclass value)
@@ -103,16 +91,6 @@ namespace WebApplication6.Controllers
         }
 
 
-        // PUT api/<GeneratorStatus>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<GeneratorStatus>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+     
     }
 }

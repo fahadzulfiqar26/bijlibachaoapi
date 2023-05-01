@@ -13,20 +13,7 @@ namespace WebApplication6.Controllers
     public class CreateUserController : ControllerBase
     {
         // GET: api/<CreateUserController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-         var dd=   Custom_Encryption.encrypt2("WWF1");
-            var dddd = Custom_Encryption.decrypt(dd);
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<CreateUserController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+      
 
         // POST api/<CreateUserController>
         [HttpPost]
@@ -77,16 +64,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<CreateUserController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-
-        }
-
-        // DELETE api/<CreateUserController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }

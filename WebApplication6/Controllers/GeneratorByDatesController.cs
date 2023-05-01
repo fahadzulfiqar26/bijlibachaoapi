@@ -15,18 +15,7 @@ namespace WebApplication6.Controllers
     public class GeneratorByDatesController : ControllerBase
     {
         // GET: api/<GeneratorByDatesController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<GeneratorByDatesController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+       
 
         // POST api/<GeneratorByDatesController>
         [HttpPost]
@@ -51,17 +40,7 @@ namespace WebApplication6.Controllers
             }
         }
 
-        // PUT api/<GeneratorByDatesController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<GeneratorByDatesController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+  
 
         List<TimeMinutes> classobj = new List<TimeMinutes>();
         private void selectpart(MsnByDates cls)

@@ -17,18 +17,7 @@ namespace WebApplication6.Controllers
     public class DailyAverageVoltage_NewController : ControllerBase
     {
         // GET: api/<DailyAverageCurrent_NewController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<DailyAverageCurrent_NewController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+      
         List<AverageCalculation> listcal, listcal2, listcal3;
         // POST api/<DailyAverageCurrent_NewController>
         [HttpPost]
@@ -63,24 +52,38 @@ namespace WebApplication6.Controllers
                         {
                        //     while (reader.Read())
                             {
+                                try { 
                                 AverageCalculation obj = new AverageCalculation();
                                 obj.value = ((Double)reader[2]);
                                 obj.Date = ((DateTime)reader[1]);
                                 listcal.Add(obj);
+                                }
+                                catch (Exception d) { }
 
-
-                                AverageCalculation obj2 = new AverageCalculation();
+                                try
+                                {
+                                    AverageCalculation obj2 = new AverageCalculation();
                                 obj2.value = ((Double)reader[7]);
                                 obj2.Date = ((DateTime)reader[1]);
                                 listcal2.Add(obj2);
-
-                                AverageCalculation obj3 = new AverageCalculation();
-                                obj3.value = ((Double)reader[11]);
-                                obj3.Date = ((DateTime)reader[1]);
-                                listcal3.Add(obj3);
                             }
+                                catch (Exception d) { }
+
+                                try
+                                {
+                                    AverageCalculation obj3 = new AverageCalculation();
+                                    obj3.value = ((Double)reader[11]);
+                                    obj3.Date = ((DateTime)reader[1]);
+                                    listcal3.Add(obj3);
+                                }
+                                catch (Exception d) { }
+}
+                           
                         }
+                        reader.Close();
+                        Log_Load_Records(value.Id);
                     }
+                    
                 }
 
                 megalist.Add(magicfunction(listcal,1));
@@ -179,16 +182,86 @@ namespace WebApplication6.Controllers
             return list2;
         }
 
-        // PUT api/<DailyAverageCurrent_NewController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        string type = "DailyAverageVoltage";
+        private void Log_Load_Records(String msn)
         {
+            String connectionString = "server=164.92.148.47;database=meter_data;uid=node_user;pwd=RNK@ehsan123;";
+            using (MySqlConnection con = new MySqlConnection(connectionString))
+            {
+                con.Open();
+                int count = 0;
+                var month = DateTime.Now.Month;
+                string query = "Select count from  Load_Records where month='" + month + "' and msn='" + msn + "' and api_name='" + type + "'";
+
+
+                using (MySqlCommand cmd = new MySqlCommand(query, con))
+                {
+                    MySqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        try
+                        {
+                            count = reader.GetInt16(0);
+
+                        }
+                        catch (Exception d) { }
+                    }
+                    reader.Close();
+                }
+                count++;
+                add_record(type, month, count, msn, con);
+            }
         }
 
-        // DELETE api/<DailyAverageCurrent_NewController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        private void add_record(string v, int month, int count, string msn, MySqlConnection con)
         {
+            if (count == 1)
+            {
+                String query = "insert into Load_Records (msn,month,api_name,count) values ('" + msn + "','" + month + "','" + v + "','" + count + "')";
+                using (MySqlCommand command = new MySqlCommand(query, con))
+                {
+
+                    int result = command.ExecuteNonQuery();
+                    if (result > 0)
+                    {
+
+                    }
+                    else
+                    {
+
+                    }
+                }
+            }
+            else
+            {
+
+
+                string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and month=@month";
+
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.CommandText = query;
+                cmd.Parameters.AddWithValue("@count", count);
+                cmd.Parameters.AddWithValue("@msn", msn);
+                cmd.Parameters.AddWithValue("@apiname", type);
+                cmd.Parameters.AddWithValue("@month", month);
+
+                cmd.Connection = con;
+                int dr = cmd.ExecuteNonQuery();
+                if (dr > 0)
+                {
+
+                }
+                else
+                {
+
+                }
+
+            }
         }
+
+
+
+
     }
 }

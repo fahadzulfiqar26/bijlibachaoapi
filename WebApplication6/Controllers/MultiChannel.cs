@@ -321,15 +321,6 @@ namespace WebApplication6.Controllers
         }
 
         // PUT api/<MultiChannel>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<MultiChannel>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+  
     }
 }

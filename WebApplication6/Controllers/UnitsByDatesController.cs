@@ -13,19 +13,7 @@ namespace WebApplication6.Controllers
     public class UnitsByDatesController : ControllerBase
     {
         // GET: api/<DailyLiveController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET api/<DailyLiveController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
+       
         // POST api/<DailyLiveController>
         [HttpPost]
         public IActionResult Post([FromBody] MsnByDates value)
@@ -67,6 +55,8 @@ namespace WebApplication6.Controllers
                    
                 }
                 ///////////
+
+                Log_Load_Records(value.msn);
                 //   string Query = "SELECT Max(energy_reg)-min(energy_reg) as 'units' from energy_relay_status where msn='21000925' and date_time>'2022-09-13 00:00:08'";
                 if (list.Count > 0)
                 {
@@ -80,16 +70,87 @@ namespace WebApplication6.Controllers
             }
         }
 
-        // PUT api/<DailyLiveController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+
+        string type = "UnitByDates";
+        private void Log_Load_Records(String msn)
         {
+            String connectionString = "server=164.92.148.47;database=meter_data;uid=node_user;pwd=RNK@ehsan123;";
+            using (MySqlConnection con = new MySqlConnection(connectionString))
+            {
+                con.Open();
+                int count = 0;
+                var month = DateTime.Now.Month;
+                string query = "Select count from  Load_Records where month='" + month + "' and msn='" + msn + "' and api_name='" + type + "'";
+
+
+                using (MySqlCommand cmd = new MySqlCommand(query, con))
+                {
+                    MySqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        try
+                        {
+                            count = reader.GetInt16(0);
+
+                        }
+                        catch (Exception d) { }
+                    }
+                    reader.Close();
+                }
+                count++;
+                add_record(type, month, count, msn, con);
+            }
         }
 
-        // DELETE api/<DailyLiveController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        private void add_record(string v, int month, int count, string msn, MySqlConnection con)
         {
+            if (count == 1)
+            {
+                String query = "insert into Load_Records (msn,month,api_name,count) values ('" + msn + "','" + month + "','" + v + "','" + count + "')";
+                using (MySqlCommand command = new MySqlCommand(query, con))
+                {
+
+                    int result = command.ExecuteNonQuery();
+                    if (result > 0)
+                    {
+
+                    }
+                    else
+                    {
+
+                    }
+                }
+            }
+            else
+            {
+
+
+                string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and month=@month";
+
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.CommandText = query;
+                cmd.Parameters.AddWithValue("@count", count);
+                cmd.Parameters.AddWithValue("@msn", msn);
+                cmd.Parameters.AddWithValue("@apiname", type);
+                cmd.Parameters.AddWithValue("@month", month);
+
+                cmd.Connection = con;
+                int dr = cmd.ExecuteNonQuery();
+                if (dr > 0)
+                {
+
+                }
+                else
+                {
+
+                }
+
+            }
         }
+
+
+        // PUT api/<DailyLiveController>/5
+
     }
 }
