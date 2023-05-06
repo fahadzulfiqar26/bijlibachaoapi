@@ -34,7 +34,7 @@ namespace WebApplication6.Controllers
                 using (MySqlConnection conn = new MySqlConnection(connectionString))
                 {
 
-                    String query = "insert into users_app (full_name,user_name,pass_word,msn,last_login,login_created,num_logins,billing_month_end,meter_phases,Description) values ('" + obj.Fullname + "','" + obj.Username + "','" + obj.Password + "','" + obj.Msn + "','" + date.ToString("yyyy-MM-dd HH:mm:ss") + "','" + date.ToString("yyyy-MM-dd HH:mm:ss") + "','" + 0 + "','" + obj.Billing_Month_End + "','" + obj.Meter_Phases + "','" + obj.Description+"')";
+                    String query = "insert into users_app (full_name,user_name,pass_word,msn,last_login,login_created,num_logins,billing_month_end,meter_phases,Description,IsActive,Device_Type) values ('" + obj.Fullname + "','" + obj.Username + "','" + obj.Password + "','" + obj.Msn + "','" + date.ToString("yyyy-MM-dd HH:mm:ss") + "','" + date.ToString("yyyy-MM-dd HH:mm:ss") + "','" + 0 + "','" + obj.Billing_Month_End + "','" + obj.Meter_Phases + "','" + obj.Description+ "','" + obj.isActive + "','" + obj.Device_Type + "')";
                     using (MySqlCommand command = new MySqlCommand(query, conn))
                     {
                         conn.Open();

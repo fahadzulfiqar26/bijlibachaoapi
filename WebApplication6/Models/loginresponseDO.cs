@@ -13,6 +13,8 @@ namespace WebApplication6.Models
 
         public int num_logins { get; set; }
 
+        public int IsActive { get; set; }
+        public string Device_Type { get; set; }
        
     }
 }

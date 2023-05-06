@@ -26,7 +26,7 @@ namespace WebApplication6.Controllers
             using (MySqlConnection con = new MySqlConnection(connectionString))
             {
                 con.Open();
-                string query = "Select msn,full_name,last_login,num_logins,Description from billing_data.users_app where user_name='" + value.user_name+"' and pass_word=md5('"+value.pass_word+"')";              
+                string query = "Select msn,full_name,last_login,num_logins,Description,IsActive,Device_Type from billing_data.users_app where user_name='" + value.user_name+"' and pass_word=md5('"+value.pass_word+"')";              
                 using (MySqlCommand cmd = new MySqlCommand(query, con))
                 {
                     MySqlDataReader reader = cmd.ExecuteReader();
@@ -40,6 +40,8 @@ namespace WebApplication6.Controllers
                         obj.last_login = reader.GetDateTime(2);
                         obj.num_logins = reader.GetInt16(3);
                         obj.Description = reader.GetString(4);
+                        obj.IsActive = reader.GetInt16(5);
+                        obj.Device_Type = reader.GetString(6);
                         reader.Close();
 
                         return Ok(obj);

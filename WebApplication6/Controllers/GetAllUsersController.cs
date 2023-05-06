@@ -41,6 +41,8 @@ namespace WebApplication6.Controllers
                         obj.Billing_Month_End = reader.GetInt32(8);
                         obj.Meter_Phases = reader.GetInt32(9);
                         obj.Description = reader.GetString(10);
+                        obj.isActive = reader.GetInt16(13);
+                        obj.Device_Type = reader.GetString(14);
                         list.Add(obj);
                      //   datetime.Add((DateTime)reader[1]);
                        
@@ -71,6 +73,8 @@ namespace WebApplication6.Controllers
                         obj.Billing_Month_End = reader.GetInt32(8);
                         obj.Meter_Phases = reader.GetInt32(9);
                         obj.Description = reader.GetString(10);
+                        obj.isActive = reader.GetInt16(13);
+                        obj.Device_Type = reader.GetString(14);
                         list.Add(obj);
                         //   datetime.Add((DateTime)reader[1]);
 

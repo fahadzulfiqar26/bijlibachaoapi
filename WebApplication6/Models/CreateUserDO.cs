@@ -9,6 +9,9 @@
         public string Description { get; set; }
         public int Billing_Month_End { get; set; }
         public int Meter_Phases{ get; set; }
+
+        public int isActive { get; set; }
+        public string Device_Type { get; set; }
     
     }
 }

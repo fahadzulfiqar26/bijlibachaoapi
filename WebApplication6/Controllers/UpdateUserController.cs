@@ -36,7 +36,7 @@ namespace WebApplication6.Controllers
                 {
                     con.Open();
 
-                    string query = "UPDATE users_app SET full_name=@full_name,user_name=@user_name, pass_word=@pass_word ,msn =@msn,billing_month_end=@billing_month_end,meter_phases=@meter_phases,Description=@desc WHERE user_name=@user_name2";
+                    string query = "UPDATE users_app SET full_name=@full_name,user_name=@user_name, pass_word=@pass_word ,msn =@msn,billing_month_end=@billing_month_end,meter_phases=@meter_phases,Description=@desc,IsActive=@isactive,Device_Type=@device_type WHERE user_name=@user_name2";
 
                     MySqlCommand cmd = new MySqlCommand();
                     cmd.CommandText = query;
@@ -47,6 +47,11 @@ namespace WebApplication6.Controllers
                     cmd.Parameters.AddWithValue("@billing_month_end", Convert.ToInt16(obj.Billing_Month_End));
                     cmd.Parameters.AddWithValue("@meter_phases", Convert.ToInt16(obj.Meter_Phases));
                     cmd.Parameters.AddWithValue("@desc", obj.Description);
+
+                    cmd.Parameters.AddWithValue("@isactive", obj.isActive);
+                    cmd.Parameters.AddWithValue("@device_type", obj.Device_Type);
+
+
                     cmd.Parameters.AddWithValue("@user_name2", obj.Username);
                     cmd.Connection = con;
                     int dr = cmd.ExecuteNonQuery();
