@@ -29,7 +29,7 @@ namespace WebApplication6.Controllers
             timeZoneInfo = TimeZoneInfo.FindSystemTimeZoneById("Pakistan Standard Time");
             obj.Type = "";
             DateTime enddate = TimeZoneInfo.ConvertTime(DateTime.Now, timeZoneInfo);
-
+            //fahad
             //   string dateString = "2022-05-09";
             //  CultureInfo provider = CultureInfo.InvariantCulture;
             // It throws Argument null exception  
