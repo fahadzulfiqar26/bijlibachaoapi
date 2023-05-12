@@ -19,11 +19,7 @@ namespace WebApplication6.Controllers
         }
 
         // GET api/<Login2Controller>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+      
 
         // POST api/<Login2Controller>
         [HttpPost]
@@ -96,16 +92,6 @@ namespace WebApplication6.Controllers
         }
 
 
-        // PUT api/<Login2Controller>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE api/<Login2Controller>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+    
     }
 }
