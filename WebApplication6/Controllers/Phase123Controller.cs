@@ -39,11 +39,11 @@ namespace WebApplication6.Controllers
                 using (MySqlCommand cmd = new MySqlCommand(query, con))
                 {
                     MySqlDataReader reader = cmd.ExecuteReader();
-                
+                    phase123returnDO obj = new phase123returnDO();
+
                     while (reader.Read())
                     {
-                        phase123returnDO obj = new phase123returnDO();
-                        try
+                         try
                         {
                             obj.msn = reader.GetString(0);
                             obj.DateTime = reader.GetDateTime(1);
@@ -64,45 +64,52 @@ namespace WebApplication6.Controllers
                         catch(Exception d) { }
                         reader.Close();
                         //  obj.Fullname = reader.GetString(1);
-                        Log_Load_Records(value.msn,con);
-                        return Ok(obj);
+                       
                     }
+                    Log_Load_Records(value.msn);
+                    return Ok(obj);
                 }
             }
             return NotFound();
         }
         string type = "Phase123";
-        private void Log_Load_Records(String msn, MySqlConnection con)
+        private void Log_Load_Records(String msn)
         {
-            int count = 0;
-            var month = DateTime.Now.Month;
-            string query = "Select count from  Load_Records where month='" + month + "' and msn='" + msn + "' and api_name='"+type+"'";
-
-
-            using (MySqlCommand cmd = new MySqlCommand(query, con))
+            String connectionString = "server=164.92.148.47;database=meter_data;uid=node_user;pwd=RNK@ehsan123;";
+            using (MySqlConnection con = new MySqlConnection(connectionString))
             {
-                MySqlDataReader reader = cmd.ExecuteReader();
+                con.Open();
+                int count = 0;
+                var month = DateTime.Now.Month;
+                string query = "Select count from  Load_Records where date='" + DateTime.Now.ToString("yyyy-MM-dd") + "' and msn='" + msn + "' and api_name='" + type + "'";
 
-                while (reader.Read())
+
+                using (MySqlCommand cmd = new MySqlCommand(query, con))
                 {
-                    try
+                    MySqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
                     {
-                        count = reader.GetInt16(0);
-                      
+                        try
+                        {
+                            count = reader.GetInt16(0);
+
+                        }
+                        catch (Exception d) { }
                     }
-                    catch(Exception d) { }  
-                    }
-                reader.Close();
+                    reader.Close();
+                }
+                count++;
+                add_record(type, month, count, msn, con);
             }
-            count++;
-            add_record(type, month, count, msn, con);
-                    }
+        }
 
         private void add_record(string v, int month, int count, string msn, MySqlConnection con)
         {
             if (count == 1)
             {
-                String query = "insert into Load_Records (msn,month,api_name,count) values ('" + msn + "','" + month + "','" + v + "','" + count + "')";
+                //date='" + DateTime.Now.ToString("yyyy-MM-dd") + "'
+                String query = "insert into Load_Records (msn,month,api_name,count,date) values ('" + msn + "','" + month + "','" + v + "','" + count + "','" + DateTime.Now.ToString("yyyy-MM-dd") + "')";
                 using (MySqlCommand command = new MySqlCommand(query, con))
                 {
 
@@ -119,30 +126,32 @@ namespace WebApplication6.Controllers
             }
             else
             {
-               
 
-                    string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and month=@month";
 
-                    MySqlCommand cmd = new MySqlCommand();
-                    cmd.CommandText = query;
-                    cmd.Parameters.AddWithValue("@count", count);
-                    cmd.Parameters.AddWithValue("@msn", msn);
-                    cmd.Parameters.AddWithValue("@apiname", type);
-                    cmd.Parameters.AddWithValue("@month", month);
-                 
-                    cmd.Connection = con;
-                    int dr = cmd.ExecuteNonQuery();
-                    if (dr > 0)
-                    {
-                      
-                    }
-                    else
-                    {
-                       
-                    }
-                
+                string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and date=@date";
+
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.CommandText = query;
+                cmd.Parameters.AddWithValue("@count", count);
+                cmd.Parameters.AddWithValue("@msn", msn);
+                cmd.Parameters.AddWithValue("@apiname", type);
+                cmd.Parameters.AddWithValue("@date", DateTime.Now.ToString("yyyy-MM-dd"));
+
+                cmd.Connection = con;
+                int dr = cmd.ExecuteNonQuery();
+                if (dr > 0)
+                {
+
+                }
+                else
+                {
+
+                }
+
             }
         }
+
+
 
 
         // PUT api/<Phase123Controller>/5

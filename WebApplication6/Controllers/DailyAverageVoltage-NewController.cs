@@ -191,7 +191,7 @@ namespace WebApplication6.Controllers
                 con.Open();
                 int count = 0;
                 var month = DateTime.Now.Month;
-                string query = "Select count from  Load_Records where month='" + month + "' and msn='" + msn + "' and api_name='" + type + "'";
+                string query = "Select count from  Load_Records where date='" + DateTime.Now.ToString("yyyy-MM-dd") + "' and msn='" + msn + "' and api_name='" + type + "'";
 
 
                 using (MySqlCommand cmd = new MySqlCommand(query, con))
@@ -218,7 +218,8 @@ namespace WebApplication6.Controllers
         {
             if (count == 1)
             {
-                String query = "insert into Load_Records (msn,month,api_name,count) values ('" + msn + "','" + month + "','" + v + "','" + count + "')";
+                //date='" + DateTime.Now.ToString("yyyy-MM-dd") + "'
+                String query = "insert into Load_Records (msn,month,api_name,count,date) values ('" + msn + "','" + month + "','" + v + "','" + count + "','" + DateTime.Now.ToString("yyyy-MM-dd") + "')";
                 using (MySqlCommand command = new MySqlCommand(query, con))
                 {
 
@@ -237,14 +238,14 @@ namespace WebApplication6.Controllers
             {
 
 
-                string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and month=@month";
+                string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and date=@date";
 
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.CommandText = query;
                 cmd.Parameters.AddWithValue("@count", count);
                 cmd.Parameters.AddWithValue("@msn", msn);
                 cmd.Parameters.AddWithValue("@apiname", type);
-                cmd.Parameters.AddWithValue("@month", month);
+                cmd.Parameters.AddWithValue("@date", DateTime.Now.ToString("yyyy-MM-dd"));
 
                 cmd.Connection = con;
                 int dr = cmd.ExecuteNonQuery();
