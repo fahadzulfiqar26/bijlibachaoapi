@@ -17,6 +17,7 @@ namespace WebApplication6.Controllers
         {
             try
             {
+                //fahad
                 var msnlist = loginresponse(value.Username);
                 selectpart(value, msnlist);
                 if (genericlist.Count > 0)
