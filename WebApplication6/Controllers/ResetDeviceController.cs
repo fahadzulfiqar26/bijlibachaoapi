@@ -14,15 +14,15 @@ namespace WebApplication6.Controllers
     public class ResetDeviceController : ControllerBase
     {
         // GET: api/<ResetDeviceController>
-     
 
-       
+
+
         // POST api/<ResetDeviceController>
         [HttpPost]
         public IActionResult Post([FromBody] msnclass value)
         {
             try
-            {
+           {
 
                
                 {

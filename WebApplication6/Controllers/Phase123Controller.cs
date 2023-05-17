@@ -62,10 +62,11 @@ namespace WebApplication6.Controllers
                             obj.PF_L3 = reader.GetString(14);
                         }
                         catch(Exception d) { }
-                        reader.Close();
+                      
                         //  obj.Fullname = reader.GetString(1);
                        
                     }
+                    reader.Close();
                     Log_Load_Records(value.msn);
                     return Ok(obj);
                 }

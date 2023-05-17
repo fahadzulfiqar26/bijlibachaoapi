@@ -7,7 +7,7 @@ using WebApplication6.Models;
 
 namespace WebApplication6.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class Login2Controller : ControllerBase
     {
