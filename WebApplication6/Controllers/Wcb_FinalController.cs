@@ -10,6 +10,7 @@ namespace WebApplication6.Controllers
     public class Wcb_FinalController : ControllerBase
     {
         ConnectionClass conn;
+        DateTime datetimenow;
         string api_key_value = "tPmAT5Ab3j7F9";
         [HttpPost]
         public IActionResult Post([FromForm] dataDO formData)
@@ -22,10 +23,14 @@ namespace WebApplication6.Controllers
                 {
                   
                     conn.Open();
+                    TimeZoneInfo timeZoneInfo;
+                    timeZoneInfo = TimeZoneInfo.FindSystemTimeZoneById("Pakistan Standard Time");
+
+                    datetimenow = TimeZoneInfo.ConvertTime(DateTime.Now, timeZoneInfo);
+                    datetimenow = datetimenow.AddMinutes(9);
 
 
-
-                    var value3 = double.Parse(formData.value3);
+                                        var value3 = double.Parse(formData.value3);
                     var value4 = double.Parse(formData.value4);
                     var value5 = double.Parse(formData.value5);
 
@@ -38,17 +43,17 @@ namespace WebApplication6.Controllers
                     if (value7 > 500 || value7 < 0 || value6 > 500 || value6 < 0 || value8 > 500 || value8 < 0 || value3 > 700 || value4 > 700 || value5 > 700 || value6 > 200 || value7 > 200 || value8 > 200)
                     {
                         CloseConnections();
-                        return Ok("");
+                        return Ok("Noise filter restrictions (Current<200 and Volatge<500 and non_negative) ");
                     }
                     /////////////////////////////// NOSIE CANCELATION ///////////////////////////////
                     if (value3 == 0 && value4 == 0 && value5 == 0 && value6 == 0 && value7 == 0 && value8 == 0 && value9 == 0)
                     {
                         CloseConnections();
-                        return Ok("");
+                        return Ok("Noise filter restrictions (Current<200 and Volatge<500 and non_negative) ");
                     }
 
 
-              
+
 
 
 
@@ -88,7 +93,7 @@ namespace WebApplication6.Controllers
 
                         var value1 = double.Parse(formData.value1);
                         DateTime dtcontroller = gettime(value1);
-                        var dtnow = DateTime.Now;
+                        var dtnow = datetimenow;
                         TimeSpan ts = dtcontroller - dtnow;
                         if (ts.TotalMinutes > 5 || ts.TotalMinutes < -5)
                         {
@@ -135,8 +140,8 @@ namespace WebApplication6.Controllers
                 return Ok("Exception:" + ex.Message);
             }
 
-            CloseConnections();
-            return Ok("End");
+
+           
             // Do something with the form data (e.g., save to a database)
 
             // Return a response
@@ -146,8 +151,7 @@ namespace WebApplication6.Controllers
         private bool FiveMintutes(dataDO formData)
         {
             bool check = false;
-            //  DateTime dt=DateTime.Now;
-            try
+             try
             {
 
                 if (!(conn.IsOpen()))
@@ -166,7 +170,7 @@ namespace WebApplication6.Controllers
                     var date = (DateTime)dr[0];
                     var time = (string)dr[1];
                     var dt = DateTime.Parse(date.ToShortDateString() + " " + time);
-                    var ts = DateTime.Now - dt;
+                    var ts = datetimenow - dt;
                     if (ts.TotalMinutes > 5 || ts.TotalMinutes < -5)
                     {
                         check = true;
@@ -221,8 +225,8 @@ namespace WebApplication6.Controllers
                     tabletpye = "insert into ATS_PM_D_";
                 if (!conn.IsOpen())
                     conn.Open();
-                var time = DateTime.Now.ToString("HH:mm:ss");
-                var date = DateTime.Now.ToString("yyyy-MM-dd");
+                var time = datetimenow.ToString("HH:mm:ss");
+                var date = datetimenow.ToString("yyyy-MM-dd");
                 string query = tabletpye + formData.device_id + " (sensor,Time,Date,value1,value2,value3,value4,value5,value6,value7,value8,value9,value10,value11,value12,value13,value14,value15) values ('" + formData.device_id + "','" + time + "','" + date + "','" + formData.value1 + "','" + formData.value2 + "','" + formData.value3 + "','" + formData.value4 + "','" + formData.value5 + "','" + formData.value6 + "','" + formData.value7 + "','" + formData.value8 + "','" + formData.value9 + "','" + formData.value10 + "','" + formData.value11 + "','" + formData.value12 + "','" + formData.value13 + "','" + formData.value14 + "','" + formData.value15 + "')";
                 var cmd = new SqlCommand(query, conn.Sqlconn);
                 int dr = cmd.ExecuteNonQuery();
@@ -238,8 +242,8 @@ namespace WebApplication6.Controllers
 
         private DateTime gettime(double value1)
         {
-            DateTime dt = DateTime.Now;
-            var date = DateTime.Now.ToShortDateString();
+            DateTime dt = datetimenow;
+            var date = datetimenow.ToShortDateString();
 
             if (value1 < 10)
             {
