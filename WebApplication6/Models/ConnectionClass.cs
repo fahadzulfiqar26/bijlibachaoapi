@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Data.SqlClient;
 using System.Data;
-using System.Linq;
-using System.Web;
-using System.Data.SqlClient;
-namespace WebApplication6
+using System;
+
+namespace WebApplication6.Models
 {
     public class ConnectionClass
     {
@@ -70,5 +68,4 @@ namespace WebApplication6
 
         internal SqlConnection Sqlconn { get; set; }
     }
-    
 }
