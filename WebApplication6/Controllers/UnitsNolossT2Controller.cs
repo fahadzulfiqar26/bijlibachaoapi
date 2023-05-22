@@ -29,7 +29,7 @@ namespace WebApplication6.Controllers
                     con.Open();
                     //select max(energy_reg)-min(energy_reg) as ssss from energy_relay_status where msn='22491086' and (date_time BETWEEN '2023-03-17' and '2023-03-19')
                     //   string query2 = "SELECT Max(energy_reg)-min(energy_reg) as 'units' from (select * from energy_relay_status where date_time between '" + value.StartDate.ToString("yyyy-MM-dd") + "' and '" + value.EndDate.ToString("yyyy-MM-dd") + "' and msn='" + value.msn + "')";
-                    string query = "select max(energy_reg)-min(energy_reg) as 'units' from energy_relay_status where TNO='1' and msn='" + value.msn + "' and (date_time BETWEEN '" + value.StartDate.ToString("yyyy-MM-dd") + "' and '" + value.EndDate.AddDays(1).ToString("yyyy-MM-dd") + "')";
+                    string query = "select max(energy_reg_t1)-min(energy_reg_t1) as 'units' from energy_relay_status where TNO='1' and msn='" + value.msn + "' and (date_time BETWEEN '" + value.StartDate.ToString("yyyy-MM-dd") + "' and '" + value.EndDate.AddDays(1).ToString("yyyy-MM-dd") + "')";
 
                     using (MySqlCommand cmd = new MySqlCommand(query, con))
                     {
@@ -50,7 +50,7 @@ namespace WebApplication6.Controllers
 
                     ///// gen
                     ///
-                     query = "select max(energy_reg)-min(energy_reg) as 'units' from energy_relay_status where TNO='2' and msn='" + value.msn + "' and (date_time BETWEEN '" + value.StartDate.ToString("yyyy-MM-dd") + "' and '" + value.EndDate.AddDays(1).ToString("yyyy-MM-dd") + "')";
+                     query = "select max(energy_reg_t2)-min(energy_reg_t2) as 'units' from energy_relay_status where TNO='2' and msn='" + value.msn + "' and (date_time BETWEEN '" + value.StartDate.ToString("yyyy-MM-dd") + "' and '" + value.EndDate.AddDays(1).ToString("yyyy-MM-dd") + "')";
 
                     using (MySqlCommand cmd = new MySqlCommand(query, con))
                     {

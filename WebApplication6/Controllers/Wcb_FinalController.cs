@@ -27,7 +27,7 @@ namespace WebApplication6.Controllers
                     timeZoneInfo = TimeZoneInfo.FindSystemTimeZoneById("Pakistan Standard Time");
 
                     datetimenow = TimeZoneInfo.ConvertTime(DateTime.Now, timeZoneInfo);
-                    datetimenow = datetimenow.AddMinutes(9);
+                    datetimenow = datetimenow.AddMinutes(-3);
 
 
                                         var value3 = double.Parse(formData.value3);

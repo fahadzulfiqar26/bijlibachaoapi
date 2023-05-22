@@ -10,14 +10,10 @@ namespace WebApplication6
     {
         public ConnectionClass()
         {
-            String none = "";
-            string server = "65.108.97.18";
-            string sqldb = "jnzngjes_esp_data";
-            string uid = "esp_board";
-            string password = "AhsanTipu-264B";
+      
             string connString;
-            connString = "SERVER=" + "65.108.97.18" + " ;" + "DATABASE=" + "jnzngjes_esp_data" + ";" + "UID=" + "esp_board" + ";" + "PASSWORD=" + "AhsanTipu-264B" + ";MultipleActiveResultSets=True";
-            connString = "SERVER=65.108.97.18; DATABASE=jnzngjes_esp_data; UID=esp_board; PASSWORD=AhsanTipu-264B; MultipleActiveResultSets=True";
+            connString = "SERVER=" + "116.202.175.92" + " ;" + "DATABASE=" + "jnzngjes_esp_data" + ";" + "UID=" + "esp_board" + ";" + "PASSWORD=" + "AhsanTipu-264B" + ";MultipleActiveResultSets=True";
+            connString = "SERVER=116.202.175.92; DATABASE=jnzngjes_esp_data; UID=esp_board; PASSWORD=AhsanTipu-264B; MultipleActiveResultSets=True";
 
             Sqlconn = new SqlConnection(connString);
         }
