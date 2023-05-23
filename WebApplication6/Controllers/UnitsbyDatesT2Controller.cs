@@ -36,7 +36,7 @@ namespace WebApplication6.Controllers
                         DailyLiveDoT2 t2 = new DailyLiveDoT2();
                         t2.Generator_Enerygy = "0";
                         t2.Line_Enerygy = "0";
-                        string query = "SELECT Max(energy_reg)-min(energy_reg) as 'units' from energy_relay_status where date_time between '" + dateTime10.ToString("yyyy-MM-dd") + "' and '" + dateTime10.AddDays(1).ToString("yyyy-MM-dd") + "' and msn='" + value.msn + "' and TNO='1'";
+                        string query = "SELECT Max(energy_reg_t1)-min(energy_reg_t1) as 'units' from energy_relay_status where date_time between '" + dateTime10.ToString("yyyy-MM-dd") + "' and '" + dateTime10.AddDays(1).ToString("yyyy-MM-dd") + "' and msn='" + value.msn + "' and TNO='1'";
                         using (MySqlCommand cmd = new MySqlCommand(query, con))
                         {
                             t2.Date = dateTime10.ToString("yyyy-MM-dd");
@@ -53,7 +53,7 @@ namespace WebApplication6.Controllers
                         }
                         // generator
 
-                         query = "SELECT Max(energy_reg)-min(energy_reg) as 'units' from energy_relay_status where date_time between '" + dateTime10.ToString("yyyy-MM-dd") + "' and '" + dateTime10.AddDays(1).ToString("yyyy-MM-dd") + "' and msn='" + value.msn + "' and TNO='2'";
+                         query = "SELECT Max(energy_reg_t2)-min(energy_reg_t2) as 'units' from energy_relay_status where date_time between '" + dateTime10.ToString("yyyy-MM-dd") + "' and '" + dateTime10.AddDays(1).ToString("yyyy-MM-dd") + "' and msn='" + value.msn + "' and TNO='2'";
                         using (MySqlCommand cmd = new MySqlCommand(query, con))
                         {
                             t2.Date = dateTime10.ToString("yyyy-MM-dd");
