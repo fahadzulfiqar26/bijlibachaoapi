@@ -10,24 +10,24 @@ namespace WebApplication6.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    public class DailyAverageCurrent_NewRange : ControllerBase
+    public class DailyAverageVoltage_NewRangeController : ControllerBase
     {
         // GET: api/<DailyAverageCurrent_NewController>
 
         List<AverageCalculation> listcal, listcal2, listcal3;
-       
         // POST api/<DailyAverageCurrent_NewController>
         [HttpPost]
         public IActionResult Post([FromBody] DailyAverageRange value)
         {
             try
             {
-                List<Rangereturn> returndata = new List<Rangereturn>();
-               while(value.StartDate<=value.EndDate)  
+
+                returndata = new List<RangereturnV>();
+                while (value.StartDate <= value.EndDate)
                 {
 
 
-                    megalist = new List<choticlassi>();
+                    List<choticlassv>    megalist = new List<choticlassv>();
                     CultureInfo provider = CultureInfo.InvariantCulture;
                     listcal = new List<AverageCalculation>();
                     listcal2 = new List<AverageCalculation>();
@@ -46,7 +46,7 @@ namespace WebApplication6.Controllers
                     using (MySqlConnection con = new MySqlConnection(connectionString))
                     {
                         con.Open();
-                        string query = "SELECT * FROM inst_data_L123 where date_time >= '" + dateTime100.ToString("yyyy-MM-dd HH:mm:ss") + "' and date_time <= '"+ dateTime100.AddDays(1).ToString("yyyy-MM-dd HH:mm:ss") + "'   and msn='" + value.Id + "' ORDER BY date_time";
+                        string query = "SELECT * FROM inst_data_L123 where date_time >= '" + dateTime100.ToString("yyyy-MM-dd HH:mm:ss") + "' and date_time <= '" + dateTime100.AddDays(1).ToString("yyyy-MM-dd HH:mm:ss") + "'  and msn='" + value.Id + "' ORDER BY date_time";
                         using (MySqlCommand cmd = new MySqlCommand(query, con))
                         {
                             MySqlDataReader reader = cmd.ExecuteReader();
@@ -57,7 +57,7 @@ namespace WebApplication6.Controllers
                                     try
                                     {
                                         AverageCalculation obj = new AverageCalculation();
-                                        obj.value = ((Double)reader[3]);
+                                        obj.value = ((Double)reader[2]);
                                         obj.Date = ((DateTime)reader[1]);
                                         listcal.Add(obj);
                                     }
@@ -66,7 +66,7 @@ namespace WebApplication6.Controllers
                                     try
                                     {
                                         AverageCalculation obj2 = new AverageCalculation();
-                                        obj2.value = ((Double)reader[8]);
+                                        obj2.value = ((Double)reader[7]);
                                         obj2.Date = ((DateTime)reader[1]);
                                         listcal2.Add(obj2);
                                     }
@@ -75,24 +75,29 @@ namespace WebApplication6.Controllers
                                     try
                                     {
                                         AverageCalculation obj3 = new AverageCalculation();
-                                        obj3.value = ((Double)reader[12]);
+                                        obj3.value = ((Double)reader[11]);
                                         obj3.Date = ((DateTime)reader[1]);
                                         listcal3.Add(obj3);
                                     }
                                     catch (Exception d) { }
                                 }
+
                             }
+                            reader.Close();
+                            Log_Load_Records(value.Id);
                         }
+
                     }
 
-                    megalist.Add(magicfunction(listcal, 1, value.StartDate));
+                    megalist.Add(magicfunction(listcal, 1,value.StartDate));
                     megalist.Add(magicfunction(listcal2, 2, value.StartDate));
 
                     megalist.Add(magicfunction(listcal3, 3, value.StartDate));
 
-                  
-                    returndata.Add(new Rangereturn() { Date = value.StartDate.ToString("yyyy-MM-dd HH:mm:ss"), Details = megalist });
-                    value.StartDate= value.StartDate.AddDays(1);
+
+
+                    returndata.Add(new RangereturnV() { Date = value.StartDate.ToString("yyyy-MM-dd HH:mm:ss"), Details = megalist });
+                    value.StartDate = value.StartDate.AddDays(1);
                 }
                 if (returndata.Count == 0)
                 {
@@ -103,6 +108,7 @@ namespace WebApplication6.Controllers
                 {
                     return Ok(returndata);
                 }
+
             }
             catch (Exception d)
             {
@@ -119,16 +125,16 @@ namespace WebApplication6.Controllers
                 return month.ToString();
             }
         }
-        List<choticlassi> megalist;
-        private choticlassi magicfunction(List<AverageCalculation> listcal, int id,DateTime date)
+        private choticlassv magicfunction(List<AverageCalculation> listcal, int id,DateTime date)
         {
-            choticlassi list2 = new choticlassi();
-            list2.Title = "Current L" + id;
+            choticlassv list2 = new choticlassv();
+            list2.Title = "Voltage L" + id;
             if (listcal.Count == 0)
             {
                 return list2;
             }
-            var dd = 24;
+            var d = listcal[listcal.Count - 1];
+            int dd = 24;
             CultureInfo provider = CultureInfo.InvariantCulture;
 
             TimeZoneInfo timeZoneInfo;
@@ -157,10 +163,10 @@ namespace WebApplication6.Controllers
                 }
                 if (sum == 0) // to avoid exception div/0
                 {
-                    list2.list.Add(new DailyAverageReturnCurrent()
+                    list2.list.Add(new DailyAverageReturnVoltage()
                     {
-                        AverageCurrent = 0,
-                        Time = dateTime100.AddHours(1).ToString("hh tt")
+                        AverageVoltage = 0,
+                        Time = dateTime100.ToString("hh tt")
                     });
 
                 }
@@ -169,10 +175,10 @@ namespace WebApplication6.Controllers
                     double avg = sum / count;
                     string c = avg.ToString("0.##");
 
-                    list2.list.Add(new DailyAverageReturnCurrent()
+                    list2.list.Add(new DailyAverageReturnVoltage()
                     {
-                        AverageCurrent = double.Parse(c),
-                        Time = dateTime100.AddHours(1).ToString("hh tt")
+                        AverageVoltage = double.Parse(c),
+                        Time = dateTime100.ToString("hh tt")
 
                     });
                 }
@@ -181,11 +187,90 @@ namespace WebApplication6.Controllers
 
             }
             // end
-
             return list2;
-
         }
 
-        // PUT api/<DailyAverageCurrent_NewController>/5
+        string type = "DailyAverageVoltage";
+        private List<RangereturnV> returndata;
+
+        private void Log_Load_Records(String msn)
+        {
+            String connectionString = "server=164.92.148.47;database=meter_data;uid=node_user;pwd=RNK@ehsan123;";
+            using (MySqlConnection con = new MySqlConnection(connectionString))
+            {
+                con.Open();
+                int count = 0;
+                var month = DateTime.Now.Month;
+                string query = "Select count from  Load_Records where date='" + DateTime.Now.ToString("yyyy-MM-dd") + "' and msn='" + msn + "' and api_name='" + type + "'";
+
+
+                using (MySqlCommand cmd = new MySqlCommand(query, con))
+                {
+                    MySqlDataReader reader = cmd.ExecuteReader();
+
+                    while (reader.Read())
+                    {
+                        try
+                        {
+                            count = reader.GetInt16(0);
+
+                        }
+                        catch (Exception d) { }
+                    }
+                    reader.Close();
+                }
+                count++;
+                add_record(type, month, count, msn, con);
+            }
+        }
+
+        private void add_record(string v, int month, int count, string msn, MySqlConnection con)
+        {
+            if (count == 1)
+            {
+                //date='" + DateTime.Now.ToString("yyyy-MM-dd") + "'
+                String query = "insert into Load_Records (msn,month,api_name,count,date) values ('" + msn + "','" + month + "','" + v + "','" + count + "','" + DateTime.Now.ToString("yyyy-MM-dd") + "')";
+                using (MySqlCommand command = new MySqlCommand(query, con))
+                {
+
+                    int result = command.ExecuteNonQuery();
+                    if (result > 0)
+                    {
+
+                    }
+                    else
+                    {
+
+                    }
+                }
+            }
+            else
+            {
+
+
+                string query = "UPDATE Load_Records SET count=@count WHERE msn=@msn and api_name=@apiname and date=@date";
+
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.CommandText = query;
+                cmd.Parameters.AddWithValue("@count", count);
+                cmd.Parameters.AddWithValue("@msn", msn);
+                cmd.Parameters.AddWithValue("@apiname", type);
+                cmd.Parameters.AddWithValue("@date", DateTime.Now.ToString("yyyy-MM-dd"));
+
+                cmd.Connection = con;
+                int dr = cmd.ExecuteNonQuery();
+                if (dr > 0)
+                {
+
+                }
+                else
+                {
+
+                }
+
+            }
+        }
+
+
     }
 }
