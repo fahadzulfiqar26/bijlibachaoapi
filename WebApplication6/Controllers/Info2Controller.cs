@@ -40,6 +40,17 @@ namespace WebApplication6.Controllers
                     }
                     List<MeterDO2> meters = new List<MeterDO2>();
                     if (id.Equals("")) { }
+                    else if (id.Contains(",")) {
+                         var list = id.Split(',');
+                        for (int i = 0; i < list.Length; i++)
+                        {
+                            MeterDO2 t = new MeterDO2();
+                            t.Msn = list[i].Split('-')[0];
+                            t.Description = "Description of "+ list[i];
+                           
+                            meters.Add(t);
+                        }
+                    }
                     else
                     {
                         query = "Select * from MSN_Records  where id='" + id + "'";
