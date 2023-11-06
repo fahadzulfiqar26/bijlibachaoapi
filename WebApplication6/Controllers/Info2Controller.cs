@@ -4,6 +4,7 @@ using MySql.Data.MySqlClient;
 using System.Collections.Generic;
 using System;
 using WebApplication6.Models;
+using System.Linq;
 
 namespace WebApplication6.Controllers
 {
@@ -16,12 +17,12 @@ namespace WebApplication6.Controllers
         {
             try
             {
-                string id = "";
+                string id = "",desc="";
                 var connectionString = "server=164.92.148.47;database=meter_data;uid=node_user;pwd=RNK@ehsan123;";
                 using (MySqlConnection con = new MySqlConnection(connectionString))
                 {
                     con.Open();
-                    string query = "Select msn from billing_data.users_app where user_name='" + value.Username+ "'";
+                    string query = "Select msn,Description from billing_data.users_app where user_name='" + value.Username+ "'";
                     using (MySqlCommand cmd = new MySqlCommand(query, con))
                     {
                         MySqlDataReader reader = cmd.ExecuteReader();
@@ -30,6 +31,7 @@ namespace WebApplication6.Controllers
                         {
 
                             id = reader.GetString(0);
+                            desc = reader.GetString(1);
                             reader.Close();
                             //  return Ok(obj);
                         }
@@ -42,11 +44,19 @@ namespace WebApplication6.Controllers
                     if (id.Equals("")) { }
                     else if (id.Contains(",")) {
                          var list = id.Split(',');
+                         var list2 = desc.Split(',');
                         for (int i = 0; i < list.Length; i++)
                         {
                             MeterDO2 t = new MeterDO2();
                             t.Msn = list[i].Split('-')[0];
-                            t.Description = "Description of "+ list[i];
+                            if (list.Length == list2.Length)
+                            {
+                                t.Description = list2[i];
+                            }
+                            else
+                            {
+                                t.Description = "Invalid Description";
+                            }
                            
                             meters.Add(t);
                         }
