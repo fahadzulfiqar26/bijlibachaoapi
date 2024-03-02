@@ -974,3 +974,5 @@ E:\Desktop Apps\Recovery\Software Codes\Software Codes\AutoLogger Control\Bijli-
 E:\Desktop Apps\Recovery\Software Codes\Software Codes\AutoLogger Control\Bijli-Bachao-api\WebApplication6\obj\Debug\net5.0\WebApplication6.pdb
 E:\Desktop Apps\Recovery\Software Codes\Software Codes\AutoLogger Control\Bijli-Bachao-api\WebApplication6\obj\Debug\net5.0\WebApplication6.genruntimeconfig.cache
 E:\Desktop Apps\Recovery\Software Codes\Software Codes\AutoLogger Control\Bijli-Bachao-api\WebApplication6\obj\Debug\net5.0\ref\WebApplication6.dll
+E:\Desktop Apps\Recovery\Software Codes\Software Codes\AutoLogger Control\Bijli-Bachao-api\WebApplication6\bin\Debug\net5.0\PdfSharp.Core.dll
+E:\Desktop Apps\Recovery\Software Codes\Software Codes\AutoLogger Control\Bijli-Bachao-api\WebApplication6\bin\Debug\net5.0\logo.png

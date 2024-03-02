@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lInh85F9Q8ecFtkLSAsgwVSF1bWgSiubfDDgMDD7Dz0YvSdGMJy+Qjn1mvvc2Yzvr/0oApZK5bOmopa1c2McMg==",
+  "dgSpecHash": "m89IdVhho51q/l20oPhwHsFqRjyGRy1dNF3wMZnl+TTcQFwehK0WXs4ZrRtpD6YfJD1CFmSSF6Pawm0ZpOE2Jg==",
   "success": true,
   "projectFilePath": "E:\\Desktop Apps\\Recovery\\Software Codes\\Software Codes\\AutoLogger Control\\Bijli-Bachao-api\\WebApplication6\\WebApplication6.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Fahad\\.nuget\\packages\\mysql.data\\8.0.30\\mysql.data.8.0.30.nupkg.sha512",
     "C:\\Users\\Fahad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Fahad\\.nuget\\packages\\npoi\\2.5.6\\npoi.2.5.6.nupkg.sha512",
+    "C:\\Users\\Fahad\\.nuget\\packages\\pdfsharp.core\\1.0.0\\pdfsharp.core.1.0.0.nupkg.sha512",
     "C:\\Users\\Fahad\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Fahad\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
