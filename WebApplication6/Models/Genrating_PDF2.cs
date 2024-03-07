@@ -17,7 +17,7 @@ using System.Collections;
 namespace WebApplication6.Models
 
 {
-    public class Genrating_PDF
+    public class Genrating_PDF2
     {
 
         public static string GetDayName(string dateString)
@@ -32,7 +32,15 @@ namespace WebApplication6.Models
                 return "Invalid date format";
             }
         }
-        public string Genrating_PDF_Function(List<DailyLiveDoT2> result, MsnByDates2 value)
+
+        public static string GetDayName2(DateTime date)
+        {
+          
+           
+                return date.ToString("dddd ") + date.ToShortDateString();
+            
+        }
+        public string Genrating_PDF_Function(List<List<TodayLiveGenerator>> result, MsnByDates2 value)
         {
             try
             {
@@ -54,27 +62,32 @@ namespace WebApplication6.Models
                 // Add header row
                 tableContent[0, 0] = "Sr";
                 tableContent[0, 1] = "Date";
-                tableContent[0, 2] = "Line";
-                tableContent[0, 3] = "Generator";
+                tableContent[0, 2] = "Running Hours";
+                tableContent[0, 3] = "Time";
                 for (int i = 0; i < result.Count; i++)
                 {
                     int index = i + 1;
-                    tableContent[index, 0] = index + "";
-                    tableContent[index, 1] = GetDayName(result[i].Date);
-                    tableContent[index, 2] = result[i].Line_Enerygy;
-                    if (result[i].Generator_Enerygy == "0")
-                    {
-                        tableContent[index, 3] = "--";
+                    double totalMinutes = result[i].Sum(obj => obj.Minutes);
 
-                    }
-                    else
+                    tableContent[index, 0] = index + "";
+                    tableContent[index, 1] = result[i][0].start_time.ToString("dd-MMM-yy");
+                    tableContent[index, 2] = getHoursMinutes(totalMinutes);
+                    string final_result = "";
+                    foreach (var item in result[i])
                     {
-                        tableContent[index, 3] = result[i].Generator_Enerygy;
+                        string startTimeString =item.start_time.ToString("hh:mm:tt");
+                        string endTimeString = item.end_time.ToString("hh:mm:tt");
+
+                        // Combine into desired format
+                        string outputString = startTimeString + " - " + endTimeString;
+                        final_result += outputString + ",";
                     }
+                    tableContent[index, 3] = final_result;
+
                 }
                 // Add data row
 
-                double[] columnWidths = { 30, 150, 125, 125 }; // Example column widths
+                double[] columnWidths = { 30, 80, 160, 160 }; // Example column widths
 
                 // Call the function
                 AddTables(gfx, tableContent, 80, 210, columnWidths, maxHeightPerPage, document);
@@ -138,7 +151,7 @@ namespace WebApplication6.Models
             }
         }
 
-        private void DrawHeader(XGraphics gfx, List<DailyLiveDoT2> result, MsnByDates2 value)
+        private void DrawHeader(XGraphics gfx, List<List<TodayLiveGenerator>> result, MsnByDates2 value)
         {
             #region Image and Texts (Header)
             string imagePath = @"logo.png";
@@ -150,14 +163,23 @@ namespace WebApplication6.Models
 
             AddHeading(gfx, "Device ID: " + value.msn, 370, 110, 300, 20, XColors.Black, 14);
             AddHeading(gfx, "Location: " + value.Location, 370, 140, 300, 20, XColors.Black, 14);
-            var line = result.Sum(item => Double.Parse(item.Line_Enerygy));
-            var gen = result.Sum(item => Double.Parse(item.Generator_Enerygy));
-            var total = line+gen;
-            AddHeading(gfx, "Total units: " + Math.Round( total) + " (WAPDA: " + Math.Round(line)+ ", Generator: " + Math.Round(gen)+")", 140, 180, 400, 20, XColors.Black, 16);
+           
+            var min = result.SelectMany(list => list).Sum(obj => obj.Minutes);
+            string time = getHoursMinutes(min);
+           
+            AddHeading(gfx, "Total: " + time , 190, 180, 400, 20, XColors.Black, 16);
 
             //Total units: 898 (WAPDA: 670, Generator: 80)
             #endregion
         }
+
+        private string getHoursMinutes(double line)
+        {
+            TimeSpan spWorkMin = TimeSpan.FromMinutes(Math.Round( line));
+            string workHours = spWorkMin.ToString(@"hh\:mm");
+            return  workHours.Split(":")[0] + " Hours " + workHours.Split(":")[1] + " Minutes ";
+        }
+
         static void AddTables(XGraphics gfx, string[,] tableContent, double x, double y, double[] columnWidths, double maxHeightPerPage, PdfDocument document)
         {
             // Determine the number of rows and columns based on the size of the table content array
@@ -233,11 +255,15 @@ namespace WebApplication6.Models
                         if (col < columns - 1)
                         {
                             lineY = currentY + (rowHeights[row] - textHeight) / 2; // Center vertically
+                          
                         }
                         else
                         {
                             lineY = currentY + topMargin + lineHeight * lineIndex + (lineHeight - textHeight) / 2; // Center vertically
-
+                            if (row > 0)
+                            {
+                                lineY += 10;
+                            }
                         }
                         XRect rect = new XRect(
                             lineX,

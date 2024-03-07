@@ -43,7 +43,7 @@ namespace WebApplication6.Controllers
             }
         }
 
-        private List<TodayLiveGenerator> selectpart2(MsnDate value,int v)
+        internal List<TodayLiveGenerator> selectpart2(MsnDate value,int v)
         {
             var MegaList = new  List<TodayLiveGenerator>();
             String msn = value.msn;
@@ -121,14 +121,17 @@ namespace WebApplication6.Controllers
 
         private void PopulateMegaList(TodayLiveGenerator obj, List<TodayLiveGenerator> MegaList)
         {
-            TodayLiveGenerator todayLiveGenerator = new TodayLiveGenerator()
+            if (obj.Minutes > 0)
             {
-                start_time = obj.start_time,
-                end_time = obj.end_time,
-                Minutes = obj.Minutes,
-                Time = obj.Time
-            };
-            MegaList.Add(todayLiveGenerator);
+                TodayLiveGenerator todayLiveGenerator = new TodayLiveGenerator()
+                {
+                    start_time = obj.start_time,
+                    end_time = obj.end_time,
+                    Minutes = obj.Minutes,
+                    Time = obj.Time
+                };
+                MegaList.Add(todayLiveGenerator);
+            }
         }
 
         List<DateTime> datetime = new List<DateTime>();

@@ -1,0 +1,983 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|c:\\users\\innof\\downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\pdfgencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\pdfgencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatordetailsbydatet2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatordetailsbydatet2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|c:\\users\\innof\\downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\genrating_pdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\genrating_pdf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|c:\\users\\innof\\downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\genrating_pdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\genrating_pdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\msnbydates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\msnbydates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\pdflinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\pdflinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\webapplication6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\unitsbydatest2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\unitsbydatest2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\info2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\info2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\meterdo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\meterdo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\dailyaveragecurrent-newrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dailyaveragecurrent-newrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\dailyaveragevoltage-newrangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dailyaveragevoltage-newrangecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\rangereturnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\rangereturnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\rangereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\rangereturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\dailyaveragevoltage-newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dailyaveragevoltage-newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\dailyaveragecurrent-newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dailyaveragecurrent-newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\dailyaveragerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\dailyaveragerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\dailyaveragecurrentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dailyaveragecurrentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\unitsnolosst2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\unitsnolosst2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\wcb_finalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\wcb_finalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatordetailsbydatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatordetailsbydatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\dailylivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dailylivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\combinedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\combinedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\info2requestdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\info2requestdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\meterdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\meterdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\login2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\login2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\userdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\userdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\deleteusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\deleteusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatorbydatet2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatorbydatet2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\hourlyunitst2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\hourlyunitst2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\hourlyunitst2do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\hourlyunitst2do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\hourlyunitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\hourlyunitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\resetdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\resetdevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\phase123controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\phase123controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\unitsbydatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\unitsbydatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\loginresponsedot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\loginresponsedot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\loginresponsedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\loginresponsedo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\dailylivedot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\dailylivedot2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\genericgeneratorbyusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\genericgeneratorbyusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\getalluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\getalluserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\updateusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\updateusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\createusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\createusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\createuserdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\createuserdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatorstatust2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatorstatust2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\generatorstatusresponset2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\generatorstatusresponset2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\genericgeneratorstatusbyusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\genericgeneratorstatusbyusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\genericstatusdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\genericstatusdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\todaylivegeneratort2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\todaylivegeneratort2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\timeminutest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\timeminutest2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatorbydatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatorbydatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\unitsnolosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\unitsnolosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\controllers\\generatortodaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\generatortodaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\webapplication6\\models\\returnunitt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B3312-F3BA-487C-A716-D09E02BD4A71}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\returnunitt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genrating_PDF.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Genrating_PDF.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Genrating_PDF.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Genrating_PDF.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Genrating_PDF.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAQwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.36Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfGenController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\PdfGenController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\PdfGenController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\PdfGenController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\PdfGenController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:29:12.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genrating_PDF2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Genrating_PDF2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Genrating_PDF2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Genrating_PDF2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Genrating_PDF2.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAmwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:40:04.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MsnByDates.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\MsnByDates.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\MsnByDates.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\MsnByDates.cs",
+              "RelativeToolTip": "WebApplication6\\MsnByDates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T05:24:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PdfLineController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\PdfLineController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\PdfLineController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\PdfLineController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\PdfLineController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DailyAverageCurrent-NewRange.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageCurrent-NewRange.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DailyAverageCurrent-NewRange.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageCurrent-NewRange.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DailyAverageCurrent-NewRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneratorDetailsByDateT2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorDetailsByDateT2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorDetailsByDateT2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorDetailsByDateT2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorDetailsByDateT2Controller.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAADwv4UAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApplication6.csproj",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApplication6\\WebApplication6.csproj",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApplication6\\WebApplication6.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T06:59:41.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitsbyDatesT2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsbyDatesT2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UnitsbyDatesT2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsbyDatesT2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UnitsbyDatesT2Controller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DailyAverageVoltage-NewRangeController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageVoltage-NewRangeController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DailyAverageVoltage-NewRangeController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageVoltage-NewRangeController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DailyAverageVoltage-NewRangeController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAUwIMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneratorStatus.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorStatus.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorStatus.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorStatus.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorStatus.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DailyAverageVoltage-NewController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageVoltage-NewController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DailyAverageVoltage-NewController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageVoltage-NewController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DailyAverageVoltage-NewController.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAIBYwAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Info2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Info2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\Info2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Info2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\Info2Controller.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAArwDUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RangereturnV.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\RangereturnV.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\RangereturnV.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\RangereturnV.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\RangereturnV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rangereturn.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Rangereturn.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Rangereturn.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Rangereturn.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Rangereturn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeterDO2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\MeterDO2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\MeterDO2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\MeterDO2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\MeterDO2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DailyAverageCurrent-NewController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageCurrent-NewController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DailyAverageCurrent-NewController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageCurrent-NewController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DailyAverageCurrent-NewController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DailyAverageRange.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\DailyAverageRange.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\DailyAverageRange.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\DailyAverageRange.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\DailyAverageRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitsNolossT2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsNolossT2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UnitsNolossT2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsNolossT2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UnitsNolossT2Controller.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowB8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\ConnectionClass.cs",
+              "RelativeToolTip": "WebApplication6\\ConnectionClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DailyAverageCurrentController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageCurrentController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DailyAverageCurrentController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyAverageCurrentController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DailyAverageCurrentController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GeneratorDetailsByDateController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorDetailsByDateController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorDetailsByDateController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorDetailsByDateController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorDetailsByDateController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAxwIkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Wcb_FinalController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Wcb_FinalController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\Wcb_FinalController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Wcb_FinalController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\Wcb_FinalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Info2RequestDO.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Info2RequestDO.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Info2RequestDO.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\Info2RequestDO.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Info2RequestDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DailyLiveController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyLiveController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DailyLiveController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DailyLiveController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DailyLiveController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CombinedController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\CombinedController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\CombinedController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\CombinedController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\CombinedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\ConnectionClass.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\ConnectionClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GeneratorByDateT2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorByDateT2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorByDateT2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorByDateT2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorByDateT2Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Login2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\Login2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Login2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\Login2Controller.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBYwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HourlyUnitsT2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\HourlyUnitsT2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HourlyUnitsT2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\HourlyUnitsT2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HourlyUnitsT2Controller.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MeterDO.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\MeterDO.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\MeterDO.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\MeterDO.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\MeterDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HourlyUnitsT2DO.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\HourlyUnitsT2DO.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\HourlyUnitsT2DO.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\HourlyUnitsT2DO.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\HourlyUnitsT2DO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteUserController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DeleteUserController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DeleteUserController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\DeleteUserController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DeleteUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDo.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\UserDo.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\UserDo.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\UserDo.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\UserDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DailyLiveDoT2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\DailyLiveDoT2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\DailyLiveDoT2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\DailyLiveDoT2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\DailyLiveDoT2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ResetDeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\ResetDeviceController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\ResetDeviceController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\ResetDeviceController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\ResetDeviceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HourlyUnitsController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\HourlyUnitsController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HourlyUnitsController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\HourlyUnitsController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HourlyUnitsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAMBcwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InfoController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\InfoController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\InfoController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\InfoController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\InfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GenericGeneratorByUserController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GenericGeneratorByUserController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GenericGeneratorByUserController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GenericGeneratorByUserController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GenericGeneratorByUserController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAxwI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Phase123Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Phase123Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\Phase123Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\Phase123Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\Phase123Controller.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "loginresponseDO.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\loginresponseDO.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\loginresponseDO.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\loginresponseDO.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\loginresponseDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitsByDatesController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsByDatesController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UnitsByDatesController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsByDatesController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UnitsByDatesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAxwEoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginresponseDOt2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\LoginresponseDOt2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\LoginresponseDOt2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\LoginresponseDOt2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\LoginresponseDOt2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAMBcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UpdateUserController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UpdateUserController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UpdateUserController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UpdateUserController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UpdateUserController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetAllUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GetAllUsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GetAllUsersController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GetAllUsersController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GetAllUsersController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwEwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateUserController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\CreateUserController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\CreateUserController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\CreateUserController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\CreateUserController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateUserDO.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\CreateUserDO.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\CreateUserDO.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\CreateUserDO.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\CreateUserDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GeneratorstatusResponseT2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\GeneratorstatusResponseT2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\GeneratorstatusResponseT2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\GeneratorstatusResponseT2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\GeneratorstatusResponseT2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GeneratorStatusT2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorStatusT2Controller.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorStatusT2Controller.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorStatusT2Controller.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorStatusT2Controller.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwC8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GenericStatusDO.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\GenericStatusDO.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\GenericStatusDO.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\GenericStatusDO.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\GenericStatusDO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TodayLiveGeneratorT2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\TodayLiveGeneratorT2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\TodayLiveGeneratorT2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\TodayLiveGeneratorT2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\TodayLiveGeneratorT2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TimeMinutesT2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\TimeMinutesT2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\TimeMinutesT2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\TimeMinutesT2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\TimeMinutesT2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GeneratorTodayController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorTodayController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorTodayController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorTodayController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorTodayController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwDMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GenericGeneratorStatusByUserController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GenericGeneratorStatusByUserController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GenericGeneratorStatusByUserController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GenericGeneratorStatusByUserController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GenericGeneratorStatusByUserController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GeneratorByDatesController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorByDatesController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\GeneratorByDatesController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\GeneratorByDatesController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\GeneratorByDatesController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBZwEQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ReturnUnitT2.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\ReturnUnitT2.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\ReturnUnitT2.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Models\\ReturnUnitT2.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\ReturnUnitT2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UnitsNoLossController.cs",
+              "DocumentMoniker": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsNoLossController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UnitsNoLossController.cs",
+              "ToolTip": "C:\\Users\\innof\\Downloads\\bijlibachaoapi-main (1)\\bijlibachaoapi-main\\WebApplication6\\Controllers\\UnitsNoLossController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UnitsNoLossController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:59:41.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
